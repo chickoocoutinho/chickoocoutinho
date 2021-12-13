@@ -19,22 +19,26 @@ Full stack Developer with experience working with MERN. Currently Learn Vue.js a
 
 <p align="center">
   <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/classBuddy.png" />
-  <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/baby-me.png" />
+  <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/solcarry.png" />
+
  <a href="https://github.com/chickoocoutinho/AlphaQ_Inspirus2021">
   <img align="" width="400"  height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=AlphaQ_Inspirus2021&theme=tokyonight" />
-</a>
-  <a href="https://github.com/Deb77/BabyAndMe">
-  <img align="" width="400"  height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=BabyAndMe&theme=tokyonight" />
-</a>
-
-  <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/electronXreact.jpg" />
-  <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/solcarry.png" />
-  <a href="https://github.com/chickoocoutinho/Desktop-Recorder">
-  <img align="" width="400"  height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=Desktop-Recorder&theme=tokyonight" />
+  
 </a>
 <a href="https://github.com/Deb77/AlphaQ_SolCarry">
   <img align="" width="400"  height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=AlphaQ_SolCarry&theme=tokyonight" />
 </a>
+ 
+
+  <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/electronXreact.jpg" />
+    <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/baby-me.png" />
+  <a href="https://github.com/chickoocoutinho/Desktop-Recorder">
+  <img align="" width="400"  height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=Desktop-Recorder&theme=tokyonight" />
+</a>
+ <a href="https://github.com/Deb77/BabyAndMe">
+  <img align="" width="400"  height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=BabyAndMe&theme=tokyonight" />
+</a>
+
 </p>
 
 <br />
