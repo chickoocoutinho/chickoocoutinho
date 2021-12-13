@@ -16,8 +16,8 @@ Full stack Developer with experience working with MERN. Currently Learn Vue.js a
 <br />
 
 <p align="center">
-  <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
-  <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
+  <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/classBuddy.png" />
+  <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/baby-me.png" />
  <a href="https://github.com/chickoocoutinho/AlphaQ_Inspirus2021">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=AlphaQ_Inspirus2021&theme=tokyonight" />
 </a>
@@ -25,8 +25,8 @@ Full stack Developer with experience working with MERN. Currently Learn Vue.js a
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=BabyAndMe&theme=tokyonight" />
 </a>
 
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
+  <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/electronXreact.jpg" />
+  <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/solcarry.png" />
   <a href="https://github.com/chickoocoutinho/Desktop-Recorder">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=Desktop-Recorder&theme=tokyonight" />
 </a>
@@ -45,10 +45,11 @@ I am a fourth-year computer engineering student and a Aspiring Full stack develo
 
 
 The moment i learnt javascript i got hooked on it... From React and Vue to Express to Electron. 
-
-#### Gotta Learn 'em all.
+  <img align="center" width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/pokemon.png" />
+<h4 align="center">Gotta Learn 'em all.</h4>
 
 I've previously worked at [Xenerx](https://xenerx.com/) as a Software developer Intern, where I handled the day to day frontend tasks of the startup. I worked extensivly on page optimisation (Always trying to achive the perfext lighthouse score).
+![Lighthouse](https://github.com/chickoocoutinho/chickoocoutinho/blob/main/lighthouse-max.png)
 
 💪 Fun fact: Planning to join the gym since March 2020 (Only Planning).
 
