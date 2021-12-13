@@ -11,8 +11,9 @@
 </p>
 
 <br />
-<p align="center">Full stack Developer with experience working with MERN. Currently Learn Vue.js and DevOps Fundamentals.
-</p>
+<p align="center">
+Full stack Developer with experience working with MERN. Currently Learn Vue.js and DevOps Fundamentals.
+</P>
 <h2 align="center">My projects 💻</h2>
 <br />
 
@@ -20,19 +21,19 @@
   <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/classBuddy.png" />
   <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/baby-me.png" />
  <a href="https://github.com/chickoocoutinho/AlphaQ_Inspirus2021">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=AlphaQ_Inspirus2021&theme=tokyonight" />
+  <img align="" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=AlphaQ_Inspirus2021&theme=tokyonight" />
 </a>
   <a href="https://github.com/Deb77/BabyAndMe">
-  <img align="" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=BabyAndMe&theme=tokyonight" />
+  <img align="" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=BabyAndMe&theme=tokyonight" />
 </a>
 
   <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/electronXreact.jpg" />
   <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/solcarry.png" />
   <a href="https://github.com/chickoocoutinho/Desktop-Recorder">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=Desktop-Recorder&theme=tokyonight" />
+  <img align="" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=Desktop-Recorder&theme=tokyonight" />
 </a>
 <a href="https://github.com/Deb77/AlphaQ_SolCarry">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=AlphaQ_SolCarry&theme=tokyonight" />
+  <img align="" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=AlphaQ_SolCarry&theme=tokyonight" />
 </a>
 </p>
 
@@ -48,7 +49,7 @@ I am a fourth-year computer engineering student and a Aspiring Full stack develo
 The moment i learnt javascript i got hooked on it... From React and Vue to Express to Electron. 
 <p align="center">
   <img align="center" width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/pokemon.png" />
-</p>
+  </p>
 <h4 align="center">Gotta Learn 'em all.</h4>
 
 I've previously worked at [Xenerx](https://xenerx.com/) as a Software developer Intern, where I handled the day to day frontend tasks of the startup. I worked extensivly on page optimisation (Always trying to achive the perfext lighthouse score).
