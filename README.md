@@ -1,53 +1,60 @@
+
 <h1 align="center">Hi there, I'm Benito👋</h1>
 
 <p align="center">
-<a alt="mailto:benito.coutinho@gmail.com">
+<a href="mailto:benito.coutinho@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a alt="https://www.linkedin.com/in/benito-coutinho/">
+<a href="https://www.linkedin.com/in/benito-coutinho/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
 <br />
-Enthusiastic Software Engineer since 2020 using ReactJS, Angular and Java Spring Boot. a11y minded. Scrum & Agile inspired.
+Full stack Developer with experience working with MERN. Currently Learn Vue.js and DevOps Fundamentals.
 <h2 align="center">My projects 💻</h2>
 <br />
 
 <p align="center">
   <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
   <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/YuriDevAT/sos-animals">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+ <a href="https://github.com/chickoocoutinho/AlphaQ_Inspirus2021">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=AlphaQ_Inspirus2021&theme=tokyonight" />
 </a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
+  <a href="https://github.com/Deb77/BabyAndMe">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=BabyAndMe&theme=tokyonight" />
 </a>
+
   <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
   <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
+  <a href="https://github.com/chickoocoutinho/Desktop-Recorder">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=Desktop-Recorder&theme=tokyonight" />
 </a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
+<a href="https://github.com/Deb77/AlphaQ_SolCarry">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=AlphaQ_SolCarry&theme=tokyonight" />
 </a>
 </p>
 
 <br />
 
 <h2 align="center">About me 😇</h2>
-<p align="center">
-Timezone: Europe/Vienna (CEST)
-</p>
 <br />
-<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
 
-:muscle: I am currently helping others to get into tech too by creating content using Twitter.<br />
-<!--:eyes: I’m currently learning ... TypeScript <br />
-:raising_hand: I’m looking to collaborate with ... someone who is interested in art / music or helping people /environment <br />
-:dizzy_face: I’m looking for help with ... TypeScript<br />-->
-💬 Ask me about anything related to... my content. I am happy to help.<br />
-:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. <br />
+I am a fourth-year computer engineering student and a Aspiring Full stack developer From Goa India.
+
+
+
+The moment i learnt javascript i got hooked on it... From React and Vue to Express to Electron. 
+
+#### Gotta Learn 'em all.
+
+I've previously worked at [Xenerx](https://xenerx.com/) as a Software developer Intern, where I handled the day to day frontend tasks of the startup. I worked extensivly on page optimisation (Always trying to achive the perfext lighthouse score).
+
+💪 Fun fact: Planning to join the gym since March 2020 (Only Planning).
+
+🎤 I've also taken part in a few stand up comedy competitions and open mics.
+
+💬 Happy to help with open source projects. 
 
 ##  💼 Skills
 
@@ -70,20 +77,19 @@ Timezone: Europe/Vienna (CEST)
 ![](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 -->
-![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![](https://img.shields.io/badge/-Gridsome-41CD52?style=for-the-badge&logo=materialize--css&logoColor=white)
+
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![](https://img.shields.io/badge/Google_Maps_Platform-414141?style=for-the-badge&logo=google-maps&logoColor=white)
-<!--
+
+##  📖 Currently Learning
+
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![](https://img.shields.io/badge/-Gridsome-41CD52?style=for-the-badge&logo=materialize--css&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
--->
----
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chickoocoutinho&layout=compact&theme=radical" width="400px" />
-</p>
+![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 [_](https://dev.to/yuridevat/how-to-create-a-stunning-github-profile-2mh5)
