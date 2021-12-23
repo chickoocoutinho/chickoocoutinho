@@ -12,7 +12,7 @@
 
 <br />
 <p align="center">
-Full stack Developer with experience working with MERN. Currently Learn Vue.js and DevOps Fundamentals.
+Full stack Developer learning and working on the MERN stack. Currently learning Vue.js and DevOps Fundamentals.
 </P>
 <h2 align="center">My projects 💻</h2>
 <br />
@@ -50,7 +50,7 @@ I am a fourth-year computer engineering student and a Aspiring Full stack develo
 
 
 
-The moment i learnt javascript i got hooked on it... From React and Vue to Express to Electron. 
+The moment I learnt javascript I got hooked on it... From React and Vue to Express to Electron. 
 <p align="center">
   <img align="center" width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/pokemon.png" />
   </p>
@@ -70,7 +70,7 @@ I've previously worked at [Xenerx](https://xenerx.com/) as a Software developer 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 <!--
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
@@ -85,6 +85,7 @@ I've previously worked at [Xenerx](https://xenerx.com/) as a Software developer 
 <!--
 ![](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 -->
 
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
@@ -96,9 +97,8 @@ I've previously worked at [Xenerx](https://xenerx.com/) as a Software developer 
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![](https://img.shields.io/badge/-Gridsome-41CD52?style=for-the-badge&logo=materialize--css&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 [_](https://dev.to/yuridevat/how-to-create-a-stunning-github-profile-2mh5)
