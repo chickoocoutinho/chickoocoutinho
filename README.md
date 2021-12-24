@@ -22,10 +22,12 @@ Full stack Developer learning and working on the MERN stack. Currently learning 
    <a href="https://github.com/chickoocoutinho/AlphaQ_Inspirus2021">
   <img align=""  width="400"  height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=AlphaQ_Inspirus2021&theme=tokyonight" />
 </a>
+  
+   <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/solcarry.png" />
 <a href="https://github.com/Deb77/AlphaQ_SolCarry">
   <img align=""  width="400"    height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=AlphaQ_SolCarry&theme=tokyonight" />
 </a>
-  <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/solcarry.png" />
+ 
    <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/electronXreact.jpg" />
  <a href="https://github.com/chickoocoutinho/Desktop-Recorder">
   <img align=""  width="400"   height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=Desktop-Recorder&theme=tokyonight" />
@@ -33,11 +35,11 @@ Full stack Developer learning and working on the MERN stack. Currently learning 
 
  
    
-  
+     <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/baby-me.png" />
  <a href="https://github.com/Deb77/BabyAndMe">
   <img align=""  width="400"   height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=BabyAndMe&theme=tokyonight" />
 </a>
-   <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/baby-me.png" />
+
 
 </p>
 
