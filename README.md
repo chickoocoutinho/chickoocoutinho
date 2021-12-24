@@ -18,23 +18,22 @@ Full stack Developer learning and working on the MERN stack. Currently learning 
 <br />
 
 <p align="center">
-  <img align=top width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/classBuddy.png" />
+  <img align=top width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/classBuddy.png" /> <br/>
    <a  href="https://github.com/chickoocoutinho/AlphaQ_Inspirus2021">
   <img align=top  width="400"  height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=AlphaQ_Inspirus2021&theme=tokyonight" />
 </a>
-  
-   <img align=top width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/solcarry.png" />
+   <br/><br/>
+   <img align=top width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/solcarry.png" /> <br/>
 <a href="https://github.com/Deb77/AlphaQ_SolCarry">
   <img align=top width="400"    height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=AlphaQ_SolCarry&theme=tokyonight" />
-</a>
- 
-   <img align=top width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/electronXreact.jpg" />
+</a> <br/><br/>
+   <img align=top width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/electronXreact.jpg" /> <br/>
  <a href="https://github.com/chickoocoutinho/Desktop-Recorder">
   <img align=top width="400"   height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=Desktop-Recorder&theme=tokyonight" />
-</a>   
- <img align=top width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/baby-me.png" />
+</a>    <br/><br/>
+ <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/baby-me.png" /> <br/>
  <a href="https://github.com/Deb77/BabyAndMe">
-  <img align=top width="400"   height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=BabyAndMe&theme=tokyonight" />
+  <img width="400"   height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=BabyAndMe&theme=tokyonight" />
 </a>
 
 
