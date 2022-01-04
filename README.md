@@ -47,12 +47,13 @@ Full stack Developer learning and working on the MERN stack. Currently learning 
 I am a fourth-year computer engineering student and a Aspiring Full stack developer From Goa India.
 
 
-
+<!-- 
 The moment I learnt javascript I got hooked on it... From React and Vue to Express to Electron. 
 <p align="center">
   <img align="center" width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/pokemon.png" />
   </p>
 <h4 align="center">Gotta Learn 'em all.</h4>
+-->
 
 I've previously worked at [Xenerx](https://xenerx.com/) as a Software developer Intern, where I handled the day to day frontend tasks of the startup. I worked extensivly on page optimisation (Always trying to achive the perfect lighthouse score).
 ![Lighthouse](https://github.com/chickoocoutinho/chickoocoutinho/blob/main/lighthouse-max.png)
