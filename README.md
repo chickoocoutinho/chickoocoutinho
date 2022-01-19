@@ -12,7 +12,7 @@
 
 <br />
 <p align="center">
-Full stack Developer learning and working on the MERN stack. Currently learning Vue.js and DevOps Fundamentals.
+Full stack Developer learning and working on the MERN stack. Currently learning Typescript and DevOps Fundamentals.
 </P>
 <h2 align="center">My projects 💻</h2>
 <br />
@@ -56,7 +56,9 @@ The moment I learnt javascript I got hooked on it... From React and Vue to Expre
 -->
 
 I've previously worked at [Xenerx](https://xenerx.com/) as a Software developer Intern, where I handled the day to day frontend tasks of the startup. I worked extensivly on page optimisation (Always trying to achive the perfect lighthouse score).
+<!-- 
 ![Lighthouse](https://github.com/chickoocoutinho/chickoocoutinho/blob/main/lighthouse-max.png)
+-->
 
 💪 Fun fact: Planning to join the gym since March 2020 (Only Planning).
 
