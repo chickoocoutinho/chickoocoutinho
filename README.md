@@ -11,7 +11,7 @@
 </p>
 
 <br />
-<p align="center">
+<p>
 Full stack Developer learning and working on the MERN stack. Currently learning Typescript and DevOps Fundamentals.
 </P>
 <!--
