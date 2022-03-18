@@ -14,6 +14,7 @@
 <p align="center">
 Full stack Developer learning and working on the MERN stack. Currently learning Typescript and DevOps Fundamentals.
 </P>
+<!--
 <h2 align="center">My projects 💻</h2>
 <br />
 
@@ -40,7 +41,7 @@ Full stack Developer learning and working on the MERN stack. Currently learning 
 </p>
 
 <br />
-
+-->
 <h2 align="center">About me 😇</h2>
 <br />
 
