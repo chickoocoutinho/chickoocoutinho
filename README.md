@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Benito👋</h1>
 
 <p align="center">
@@ -14,49 +13,8 @@
 <p>
 Full stack Developer learning and working on the MERN stack. Currently learning Typescript and DevOps Fundamentals.
 </P>
-<!--
-<h2 align="center">My projects 💻</h2>
-<br />
 
-<p align="center">
-  <img align=top width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/classBuddy.png" /> <br/>
-   <a  href="https://github.com/chickoocoutinho/AlphaQ_Inspirus2021">
-  <img align=top  width="400"  height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=AlphaQ_Inspirus2021&theme=tokyonight" />
-</a>
-   <br/><br/>
-   <img align=top width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/solcarry.png" /> <br/>
-<a href="https://github.com/Deb77/AlphaQ_SolCarry">
-  <img align=top width="400"    height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=AlphaQ_SolCarry&theme=tokyonight" />
-</a> <br/><br/>
-   <img align=top width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/electronXreact.jpg" /> <br/>
- <a href="https://github.com/chickoocoutinho/Desktop-Recorder">
-  <img align=top width="400"   height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=Desktop-Recorder&theme=tokyonight" />
-</a>    <br/><br/>
- <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/baby-me.png" /> <br/>
- <a href="https://github.com/Deb77/BabyAndMe">
-  <img width="400"   height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=BabyAndMe&theme=tokyonight" />
-</a>
-
-
-</p>
-
-<br />
--->
-<h2 align="center">About me 😇</h2>
-<br />
-
-I am a fourth-year computer engineering student and an aspiring Full stack developer From Goa India, currently working at [Spintly](https://spintly.com/) as a Software developer Intern.
-
-I've previously worked at [Xenerx](https://xenerx.com/), where I handled the day to day frontend tasks of the startup. I worked extensivly on page optimisation (Always trying to achive the perfect lighthouse score).
-
-![Lighthouse](https://github.com/chickoocoutinho/chickoocoutinho/blob/main/lighthouse-max.png)
-
-
-💪 Fun fact: Planning to join the gym since March 2020 (Only Planning).
-
-🎤 I've also taken part in a few stand up comedy competitions and open mics.
-
-💬 Happy to help with open source projects. 
+![Rick roll](https://github.com/chickoocoutinho/chickoocoutinho/blob/main/rickroll-roll.gif)
 
 ##  💼 Skills
 
