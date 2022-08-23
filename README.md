@@ -14,7 +14,9 @@
 Full stack Developer learning and working on the MERN stack. Currently learning Typescript and DevOps Fundamentals.
 </P>
 
-![Rick roll](https://github.com/chickoocoutinho/chickoocoutinho/blob/main/rickroll-roll.gif)
+<p align="center">
+  <img src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/rickroll-roll.gif" alt="Rick roll"/>
+</p>
 
 ##  💼 Skills
 
