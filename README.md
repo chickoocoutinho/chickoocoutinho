@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there, I'm Benito👋</h1>
 
 <p align="center">
@@ -11,12 +12,43 @@
 
 <br />
 <p>
-Full stack Developer learning and working on the MERN stack. Currently learning Typescript and DevOps Fundamentals.
+Front-end developer with experience working at scale in the fintech sector.
 </P>
+<!--
+<h2 align="center">My projects 💻</h2>
+<br />
 
 <p align="center">
-  <img src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/rickroll-roll.gif" alt="Rick roll"/>
+  <img align=top width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/classBuddy.png" /> <br/>
+   <a  href="https://github.com/chickoocoutinho/AlphaQ_Inspirus2021">
+  <img align=top  width="400"  height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=AlphaQ_Inspirus2021&theme=tokyonight" />
+</a>
+   <br/><br/>
+   <img align=top width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/solcarry.png" /> <br/>
+<a href="https://github.com/Deb77/AlphaQ_SolCarry">
+  <img align=top width="400"    height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=AlphaQ_SolCarry&theme=tokyonight" />
+</a> <br/><br/>
+   <img align=top width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/electronXreact.jpg" /> <br/>
+ <a href="https://github.com/chickoocoutinho/Desktop-Recorder">
+  <img align=top width="400"   height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=chickoocoutinho&repo=Desktop-Recorder&theme=tokyonight" />
+</a>    <br/><br/>
+ <img width="400" src="https://github.com/chickoocoutinho/chickoocoutinho/blob/main/baby-me.png" /> <br/>
+ <a href="https://github.com/Deb77/BabyAndMe">
+  <img width="400"   height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb77&repo=BabyAndMe&theme=tokyonight" />
+</a>
+
+
 </p>
+
+<br />
+-->
+<h2 align="center">About me 😇</h2>
+<br />
+
+I am a Front end Developer working at  [Numadic](https://numadic.com/) . I work mainly with ReactJs, NextJS, Redux, MaterialUi, NodeJs.
+
+Previously worked at [Spintly](https://spintly.com/) as a Software developer Intern and at [Xenerx](https://xenerx.com/), where I handled the day-to-day frontend tasks of the startup. I worked extensively on page optimisation 
+
 
 ##  💼 Skills
 
@@ -36,12 +68,14 @@ Full stack Developer learning and working on the MERN stack. Currently learning 
 
 ##  📖 Currently Learning
 
-![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
 ![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 <!--
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
